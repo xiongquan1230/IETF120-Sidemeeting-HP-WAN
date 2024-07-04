@@ -4,7 +4,7 @@ Time: Tuesday 23 July-15：30~17:30 (Vancouver)
 
 Location: Prince of Wales/Oxford
 
-Remote Teams Meeting Link: TBA
+Remote Meeting Link: TBA
 
 Contact: Quan Xiong (xiong.quan@zte.com.cn),Kehan Yao (yaokehan@chinamobile.com)
 
