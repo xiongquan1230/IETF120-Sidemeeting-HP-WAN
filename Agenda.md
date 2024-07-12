@@ -13,7 +13,7 @@ The primary agenda is shown as below.
 
 15:45-15:55 Use cases, Requirements and Gap Analysis of Online Data Express Service(ODES), Kehan Yao (China Mobile), 10min
 
-16:05-06:15 Super Computing Express Services in High-performance WAN, Huiyue Zhang (China Telecom), 10min
+16:05-16:15 Super Computing Express Services in High-performance WAN, Huiyue Zhang (China Telecom), 10min
 
 16:15-16:25 Use Cases and Requirements for Packet Loss Rate Guarantee in WAN, Ying Liu (China Unicom), 10min
 
