@@ -3,10 +3,7 @@
 # High-performance WAN
 
 
-
-This sidemeeting aims at starting the discussion about the usecases and problems of High-Performance Wide Area Network and seek consensus on technical requirements for high-thoughput transmission.
-
-The side meeting mainly focus on the use cases, problems, gap analysis, and requirements of High-performance Wide Area Networks
+With the rapid development of big data and intelligent computing, there are many applications requiring data transmission between data centers (DC), such as cloud storage and backup of industrial internet data, digital twin modeling, Artificial Intelligence Generated Content (AIGC), multimedia content production, distributed training, High Performance Computing (HPC) for scientific research and so on. The long-distance connection and massive data transmission between intelligent computing centers have become a key factor affecting the performance.  It must ensure data integrity and provide stable and efficient transmission services in Wide Area Networks (WAN) and Metropolitan Area Networks (MAN). High-performance Wide Area Network (HP-WAN) puts forward higher performance requirements such as ultra-high bandwidth utilization, and ultra-low packet loss ratio ensuring effective high-throughput transmission. This sidemeeting aims at starting the discussion about the usecases, problems, gap analysis, and requirements of High-Performance Wide Area Network. 
 
 The primary agenda is shown as below.
 
