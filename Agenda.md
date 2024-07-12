@@ -23,7 +23,7 @@ The primary agenda is shown as below.
 
 
 ##
-#Open Issues Discussion
+#Open Issues
 
 1, Is the HP-WAN topic and problem space people want to work on?
 
