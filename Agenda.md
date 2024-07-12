@@ -19,6 +19,8 @@ The primary agenda is shown as below.
 
 16:25-16:35 Consideration about the High-performance WAN, Quan Xiong (ZTE), 10min
 
+16:35-17:00 Open Issues Discussion, Zheng Zhang (ZTE), 25min
+
 
 ##
 #Open Issues Discussion
