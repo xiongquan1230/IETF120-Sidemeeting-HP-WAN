@@ -25,9 +25,13 @@ The primary agenda is shown as below.
 
 #Open Issues Discussion
 1, Is the HP-WAN topic and problem space people want to work on?
+
 2, What could the IETF do to help with these problems?
+
 3, Which IETF technology is most impacted?
+
 4, What are the next steps for HP-WAN discussions?
+
 
 
 
