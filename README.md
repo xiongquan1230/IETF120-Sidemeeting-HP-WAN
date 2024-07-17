@@ -7,7 +7,7 @@ Time: Tuesday 23 July-15：30~17:30 (Vancouver)
 
 Location: Prince of Wales/Oxford
 
-Remote Meeting Link: TBA
+Remote Meeting Link: https://ietf.webex.com/wbxmjs/joinservice/sites/ietf/meeting/download/1388c976b78240dd9e32d026ac210e4f
 
 Meeting Host: Zhang Zheng (zhang.zheng@zte.com.cn), Peng Liu (liupengyjy@chinamobile.com)
 
