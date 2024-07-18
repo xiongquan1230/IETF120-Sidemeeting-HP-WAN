@@ -11,15 +11,13 @@ The primary agenda is shown as below.
 
 15:35-15:45 Use cases, Requirements and Gap Analysis of Online Data Express Service(ODES), 10min
 
-15:45-15:55 The Impact of SLA Performance Indicaters on High-throughput Transimiision in WAN, 10min
+15:45-15:55 Super Computing Express Services in High-performance WAN, 10min
 
-16:05-16:15 Super Computing Express Services in High-performance WAN, 10min
+16:05-16:15 Use Cases and Requirements for Packet Loss Rate Guarantee in WAN, 10min
 
-16:15-16:25 Use Cases and Requirements for Packet Loss Rate Guarantee in WAN, 10min
+16:15-16:25 Consideration about the High-performance WAN, 10min
 
-16:25-16:35 Consideration about the High-performance WAN, 10min
-
-16:35-17:00 Open Issues Discussion, 25min
+16:25-17:00 Open Issues Discussion, 35min
 
 
 ##
