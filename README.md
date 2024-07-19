@@ -5,7 +5,7 @@ With the rapid development of big data and intelligent computing, there are many
 
 We're planning to have a side meeting at IETF 120: High-performance WAN. This sidemeeting aims at starting the discussion about the use cases, problems, gap analysis, and requirements of High-Performance Wide Area Network.
 
-Time: Tuesday 23 July-15：30~17:00 (Vancouver)(（7-24 AM 6：30-8：00 Beijing Time）)
+Time: Tuesday 23 July-15：30~17:00 (Vancouver)(7-24 AM 6：30-8：00 Beijing Time)
 
 Location: Prince of Wales/Oxford
 
