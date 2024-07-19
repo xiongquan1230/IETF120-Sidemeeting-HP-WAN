@@ -3,7 +3,7 @@
 
 We're planning to have a side meeting at IETF 120: High-performance WAN.
 
-Time: Tuesday 23 July-15：30~17:30 (Vancouver)
+Time: Tuesday 23 July-15：30~17:00 (Vancouver)(（7-24 AM 6：30-8：00 Beijing Time）)
 
 Location: Prince of Wales/Oxford
 
