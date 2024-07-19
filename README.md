@@ -1,5 +1,5 @@
 
-# IETF118-Sidemeeting-High-performance WAN
+# IETF120-Sidemeeting-High-performance WAN
 
 We're planning to have a side meeting at IETF 120: High-performance WAN.
 
