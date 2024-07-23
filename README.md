@@ -27,6 +27,8 @@ The primary agenda is shown as below.
 
 16:05-16:15 Use Cases and Requirements for Packet Loss Rate Guarantee in WAN, 10min
 
-16:15-16:25 Consideration about the High-performance WAN, 10min
+16:15-16:25 HP-WAN Use Case: Distributed Data Management (DDM) Supporting Big Science, 10min
 
-16:25-17:00 Open Issues Discussion, 35min
+16:25-16:35 Consideration about the High-performance WAN, 10min
+
+16:35-17:00 Open Issues Discussion, 25min
