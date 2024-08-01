@@ -11,6 +11,9 @@ Kehan Yao (yaokehan@chinamobile.com)
 notes:
 https://notes.ietf.org/s/notes-ietf-120-HP-WAN-side-meeting
 
+record：
+https://ietf.webex.com/recordingservice/sites/ietf/recording/469ced157efb45b0a3f3844e1f2c0c1f/playback
+
 Minutes:
 
 [Post Presentations there was a Open Discussion]
